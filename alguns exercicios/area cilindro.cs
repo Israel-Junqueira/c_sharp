@@ -11,7 +11,7 @@ namespace area_de_um_cilindro
             double pi;
 
             pi = 3.14;
-            latas = 12;
+            latas = 15;
             H = 1.80;
             R = 2;
 
@@ -29,3 +29,4 @@ namespace area_de_um_cilindro
         }
     }
 }
+
